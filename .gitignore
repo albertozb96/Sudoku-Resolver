@@ -1,4 +1,3 @@
-# Executables
+# Ignore build directory
 
-*.exe
-/make-alias.bat
+build

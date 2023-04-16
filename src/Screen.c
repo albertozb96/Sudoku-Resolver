@@ -1,14 +1,9 @@
+/* Screen.c */
+
+#include <Screen.h>
+// #include "Screen.h"
 #include <stdio.h>
-
-void printSudoku();
-
-int main()
-{
-    printSudoku();
-    printf("Press Any Key to Continue.");
-    getchar();
-    return 0;
-}
+// #include <windows.h>
 
 void printSudoku()
 {
