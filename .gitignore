@@ -1,3 +1,5 @@
-# Ignore build directory
+build/*
+!build/.gitkeep
 
-build
+objects/*
+!objects/.gitkeep
